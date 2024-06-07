@@ -10,7 +10,7 @@ Welcome to the Movie Recommender System project! This application is designed to
 - License
 
 # Overview
-The Movie Recommender System uses a dataset of movies and their metadata to recommend similar movies to the user. The system processes the movie data to extract features such as genres, keywords, cast, and crew, and then uses cosine similarity to find movies that are similar to the selected movie.
+The Movie Recommender System uses a dataset of movies and their metadata to recommend similar movies to the user. The system processes the movie dataset to extract features such as **genres, keywords, cast, and crew**, and then uses cosine similarity to find movies that are similar to the selected movie.
 
 # Features
 **Movie Recommendation:** Recommends movies based on a selected movie title.  
